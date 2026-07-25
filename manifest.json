@@ -2,7 +2,7 @@
   "name": "张倩的工作台",
   "short_name": "张倩工作台",
   "description": "张倩专属：每日计划、学习成长、环境整理、收藏整理、内容复盘",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f4f1ea",
   "theme_color": "#5b7c44",
